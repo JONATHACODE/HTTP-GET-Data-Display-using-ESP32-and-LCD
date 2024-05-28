@@ -26,4 +26,4 @@ Anda bisa mencoba proyek ini di Wokwi: [Klik di sini](https://wokwi.com/projects
 ![Screenshot](https://i.ibb.co/Jr20X9M/DDASDF.png)
 
 ## Penulis
-Dibuat oleh [Nama Anda].
+Dibuat oleh [JONATHACODE].
